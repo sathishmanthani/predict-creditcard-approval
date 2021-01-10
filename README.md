@@ -7,7 +7,11 @@ In this project, I created a machine learning program to read the data for exist
 
 **Research Questions**  
 Below are my research questions for this project:
+
 • What are attributes available in credit card applications data. Would there be any optional attributes for which the data would be missing
-• What attributes are influencing the approval status the most.
+
+• What attributes are influencing the approval status the most. 
+
 • Are there any attributes negatively or positively moving with the approval status variable.
+
 • Look at several data visualizations to understand the underlying data
