@@ -16,3 +16,5 @@ Below are my research questions for this project:
 • Are there any attributes negatively or positively moving with the approval status variable.
 
 • Look at several data visualizations to understand the underlying data
+
+Check out the docs folder for documentation on the project.
